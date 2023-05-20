@@ -8,7 +8,7 @@ packages = [{include = "mwc1_unit02_lab_pipes"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-wordflow = "^0.1.0"
+wordflow = "^0.2.2"
 
 
 [build-system]
